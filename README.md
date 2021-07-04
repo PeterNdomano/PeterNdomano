@@ -1,16 +1,4 @@
 ### Hi there 👋
 
-<!--
-**PeterNdomano/PeterNdomano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterNdomano)](https://github.com/PeterNdomano/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on blockchain development
-- 🌱 I’m currently learning blockchain technology
-- 👯 I’m looking to collaborate on back
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
